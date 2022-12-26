@@ -1,0 +1,3 @@
+﻿  Containers.cpp
+C:\Users\W1zzA\source\repos\Containers\Containers\Containers.cpp(12,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Containers.vcxproj -> C:\Users\W1zzA\source\repos\Containers\x64\Debug\Containers.exe
